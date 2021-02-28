@@ -1,0 +1,1 @@
+Used linked lists and doubly linked lists. To implement a metro line/stop managment system. Since the number of metro stops were unknown used dynamic memory allocation. Also used recursion to find the best path for us.

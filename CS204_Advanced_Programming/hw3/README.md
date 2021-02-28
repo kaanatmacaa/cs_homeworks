@@ -1,0 +1,1 @@
+The aim of this homework is to implement a comprehensive class of BinarySearchTree. There is also an iIterator class, which is located at BinaryTree.h and BinaryTree.cpp. This class should work with BinaryTree class. Also, a Stack class is given for using in the Iterators class.

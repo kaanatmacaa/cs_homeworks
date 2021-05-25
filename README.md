@@ -1,2 +1,2 @@
 # CS_Homeworks
-My computer science homeworks assigned by Sabancı University instructors.
+my sabanci university computer science assignments/projects

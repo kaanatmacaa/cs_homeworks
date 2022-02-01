@@ -1,0 +1,1 @@
+man ls | grep "--after-context" "1" "-e" "-Z"
